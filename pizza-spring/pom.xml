@@ -136,9 +136,9 @@
 					</goals>
 					<configuration>
 						<!--path>C:\apache-tomcat-9.0.27</path-->
-						<password>azerty</password>
 						<username>deployer</username>
-						<url>http://localhost:8080/manager/text</url>
+						<password>azerty</password>
+						<url>http://localhost:8999/manager/text</url>
 						<update>true</update>
 					</configuration>
 				</execution>
